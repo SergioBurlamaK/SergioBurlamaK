@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022, mas agora eles vêm com gráficos 📈  <br>📚 Atualmente estudando: Análise de Dados, SQL avançado, Python para Machine Learning e visualização com Power BI  <br>🎯 Objetivos: visitar a Suíça 🇨🇭 um dia, dentre outros países 🌍  <br>🎲 Curiosidade aleatória: já passei mais tempo limpando dados do que limpando minha casa 🧹😂</p>
+<p align="left">✨ Criando bugs desde 2022, mas agora eles vêm com gráficos 📈  <br>📚 Atualmente estudando: Análise de Dados, SQL avançado, Python para Machine Learning e visualização com Power BI  <br>🎯 Objetivos: visitar a Suíça <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" width="20"/> um dia, dentre outros países 🌍  <br>🎲 Curiosidade aleatória: já passei mais tempo limpando dados do que limpando minha casa 🧹😂</p>
 
 ###
 
