@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🗣️ Meu nome é Sergio Burlamaqui, sou Analista de Dados de Rio de Janeiro, Brasil.<br>🎓 Atualmente, curso Ciência da Computação no IBMR, ampliando meus conhecimentos em tecnologia e desenvolvimento de soluções com dados.</p>
+<p align="left">🗣️ Meu nome é Sergio Burlamaqui, sou Analista de Dados de Rio de Janeiro, Brasil.<br>🎓 Atualmente, curso Ciência da Computação pela IBMR, ampliando meus conhecimentos em tecnologia e desenvolvimento de soluções com dados.</p>
 
 ###
 
